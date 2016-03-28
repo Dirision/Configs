@@ -45,6 +45,8 @@ Plugin 'tpope/vim-fugitive'
 " "
 " " see :h vundle for more details or wiki for FAQ
 " " Put your non-Plugin stuff after this lineolorscheme murphy
+=======
+colorscheme murphy
 set noerrorbells
 syntax enable
 map <leader>ss :setlocal spell!<cr>
